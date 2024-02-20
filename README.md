@@ -37,7 +37,7 @@ Estou aprendedno a criar sites e agora vou gerenciar meus repositórios!
 
    <a href="https://murilom19.github.io/html-css/exercicios/ex018/index.html">Executar o exercício 018</a>
 
-   <a href="https://murilom19.github.io/html-css/exercicios/ex019/index.html">Executar o exercício 019</a>
+   <a href="https://murilom19.github.io/html-css/exercicios/ex019/seletor01.html">Executar o exercício 019</a>
 
    <a href="https://murilom19.github.io/html-css/exercicios/ex020/index.html">Executar o exercício 020</a>
 
